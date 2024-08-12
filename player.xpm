@@ -1,0 +1,47 @@
+/* XPM */
+static char * player_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"32 32 3 1",
+"  c None",       /* Spazio trasparente */
+". c #000000",    /* Nero per il contorno */
+"O c #FFD700",    /* Oro per i capelli */
+"# c #87CEEB",    /* Blu cielo per i vestiti */
+/* pixels */
+
+"                                    ",
+"               OOOOOOOO             ",
+"              OOOOOOOOOO            ",
+"               OOOOOOOO             ",
+"               ..    ..             ",
+"              ...    ...            ",
+"             ....    ....           ",
+"              ..      ..            ",
+"       .###    ........             ",
+"       .###     ......              ",
+"       .###    .######.             ",
+"       .### .############.          ",
+"       .### ###############.        ",
+"        .######################.    ",
+"          .####################.    ",
+"          .OOOOOOOOOOOOOOO.  ###.   ",
+"          .###############.  ###.   ",
+"           .#############.   ###.   ",
+"            .###########.     ##.   ",
+"             .#########.            ",
+"              .########.            ",
+"               .######.             ",
+"               O     O              ",
+"             OO      OO             ",
+"            OO        OO            ",
+"           OO          OO           ",
+"                                    ",
+"                                    ",
+"                                    ",
+"                                    ",
+"                                    "
+};
+
+
+
+
+
